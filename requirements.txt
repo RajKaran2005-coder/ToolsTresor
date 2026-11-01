@@ -10,5 +10,6 @@ requests==2.32.5
 stegano==2.0.0
 cryptography==46.0.3
 pypdf==6.10.2
+loremipsum==1.0.5
 setuptools
 gunicorn
