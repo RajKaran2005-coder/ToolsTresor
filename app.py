@@ -6,7 +6,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 from datetime import datetime
 import re, qrcode, io, hashlib, random, string, requests, os, uuid, secrets
 from stegano import lsb
-from loremipsum import get_sentence
+
 from PIL import Image, ImageDraw
 
 app = Flask(__name__)
